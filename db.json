@@ -1,1129 +1,1137 @@
 {
+  "cats": [
+    "Relevance",
+    "Best Sellers",
+    "Top Rated",
+    "Newest",
+    "Highest Price",
+    "Lowest Price"
+  ],
   "products": [
     {
       "mainPhoto": "https://tumi.scene7.com/is/image/Tumi/1173171009_main?hei=280&wid=280&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "altPhoto": "https://tumi.scene7.com/is/image/Tumi/1173171009_alt1?hei=370&wid=330&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "rate": 5,
-      "cat": "Double Expansion Travel Satchel",
-      "name": "Alpha 3",
-      "price": "425.00",
-      "topic": "Relevance"
+      "name": "Double Expansion Travel Satchel",
+      "cat": "Alpha 3",
+      "price": 425,
+      "topic": "Top Rated"
     },
     {
       "mainPhoto": "https://tumi.scene7.com/is/image/Tumi/1099701041_main?hei=280&wid=280&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "altPhoto": "https://tumi.scene7.com/is/image/Tumi/1099701041_alt1?hei=370&wid=330&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "rate": 5,
-      "cat": "Troy Crossbody",
-      "name": "Voyageur",
-      "price": "245.00",
-      "topic": "Newest"
+      "name": "Troy Crossbody",
+      "cat": "Voyageur",
+      "price": 245,
+      "topic": "Highest Price"
     },
     {
       "mainPhoto": "https://tumi.scene7.com/is/image/Tumi/1319581041_main?hei=280&wid=280&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "altPhoto": "https://tumi.scene7.com/is/image/Tumi/1319581041_alt1?hei=370&wid=330&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "rate": 5,
-      "cat": "Tula Crossbody",
-      "name": "Voyageur",
-      "price": "245.00",
-      "topic": "Relevance"
+      "name": "Tula Crossbody",
+      "cat": "Voyageur",
+      "price": 245,
+      "topic": "Highest Price"
     },
     {
       "mainPhoto": "https://tumi.scene7.com/is/image/Tumi/1099931041_main?hei=280&wid=280&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "altPhoto": "https://tumi.scene7.com/is/image/Tumi/1099931041_alt1?hei=370&wid=330&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "rate": 5,
-      "cat": "Ruma Crossbody",
-      "name": "Voyageur",
-      "price": "145.00",
+      "name": "Ruma Crossbody",
+      "cat": "Voyageur",
+      "price": 145,
       "topic": "Relevance"
     },
     {
       "mainPhoto": "https://tumi.scene7.com/is/image/Tumi/1355001041_main?hei=280&wid=280&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "altPhoto": "https://tumi.scene7.com/is/image/Tumi/1355001041_alt1?hei=370&wid=330&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "rate": 5,
-      "cat": "Lane Satchel Leather",
-      "name": "Voyageur",
-      "price": "495.00",
-      "topic": "Relevance"
+      "name": "Lane Satchel Leather",
+      "cat": "Voyageur",
+      "price": 495,
+      "topic": "Top Rated"
     },
     {
       "mainPhoto": "https://tumi.scene7.com/is/image/Tumi/1335711041_main?hei=280&wid=280&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "altPhoto": "https://tumi.scene7.com/is/image/Tumi/1335711041_alt1?hei=370&wid=330&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "rate": 4,
-      "cat": "Everyday Tote",
-      "name": "Voyageur",
-      "price": "295.00",
-      "topic": "Relevance"
+      "name": "Everyday Tote",
+      "cat": "Voyageur",
+      "price": 295,
+      "topic": "Lowest Price"
     },
     {
       "mainPhoto": "https://tumi.scene7.com/is/image/Tumi/1032891041_main?hei=280&wid=280&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "altPhoto": "https://tumi.scene7.com/is/image/Tumi/1032891041_alt1?hei=370&wid=330&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "rate": 5,
-      "cat": "McCoy Gym Bag",
-      "name": "Alpha Bravo",
-      "price": "525.00",
+      "name": "McCoy Gym Bag",
+      "cat": "Alpha Bravo",
+      "price": 525,
       "topic": "Relevance"
     },
     {
       "mainPhoto": "https://tumi.scene7.com/is/image/Tumi/1173051041_main?hei=280&wid=280&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "altPhoto": "https://tumi.scene7.com/is/image/Tumi/1173051041_alt1?hei=370&wid=330&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "rate": 4,
-      "cat": "Expandable Organizer Laptop Brief",
-      "name": "Alpha 3",
-      "price": "525.00",
-      "topic": "Relevance"
+      "name": "Expandable Organizer Laptop Brief",
+      "cat": "Alpha 3",
+      "price": 525,
+      "topic": "Top Rated"
     },
     {
       "mainPhoto": "https://tumi.scene7.com/is/image/Tumi/1173361009_main?hei=280&wid=280&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "altPhoto": "https://tumi.scene7.com/is/image/Tumi/1173361009_alt1?hei=370&wid=330&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "rate": 5,
-      "cat": "Slim Three Way Brief",
-      "name": "Alpha 3",
-      "price": "475.00",
-      "topic": "Relevance"
+      "name": "Slim Three Way Brief",
+      "cat": "Alpha 3",
+      "price": 475,
+      "topic": "Newest"
     },
     {
       "mainPhoto": "https://tumi.scene7.com/is/image/Tumi/1100071041_main?hei=280&wid=280&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "altPhoto": "https://tumi.scene7.com/is/image/Tumi/1100071041_alt1?hei=370&wid=330&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "rate": 5,
-      "cat": "Sheryl Business Tote",
-      "name": "Voyageur",
-      "price": "425.00",
-      "topic": "Relevance"
+      "name": "Sheryl Business Tote",
+      "cat": "Voyageur",
+      "price": 425,
+      "topic": "Best Sellers"
     },
     {
       "mainPhoto": "https://tumi.scene7.com/is/image/Tumi/1032871374_main?hei=280&wid=280&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "altPhoto": "https://tumi.scene7.com/is/image/Tumi/1032871374_alt1?hei=370&wid=330&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "rate": 5,
-      "cat": "Albany Slim Commuter Brief",
-      "name": "Alpha Bravo",
-      "price": "450.00",
-      "topic": "Top Rated"
+      "name": "Albany Slim Commuter Brief",
+      "cat": "Alpha Bravo",
+      "price": 450,
+      "topic": "Relevance"
     },
     {
       "mainPhoto": "https://tumi.scene7.com/is/image/Tumi/1357871041_main?hei=280&wid=280&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "altPhoto": "https://tumi.scene7.com/is/image/Tumi/1357871041_alt1?hei=370&wid=330&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "rate": 0,
-      "cat": "Small Wynne Weekender",
-      "name": "Voyageur",
-      "price": "375.00",
-      "topic": "Relevance"
+      "name": "Small Wynne Weekender",
+      "cat": "Voyageur",
+      "price": 375,
+      "topic": "Newest"
     },
     {
       "mainPhoto": "https://tumi.scene7.com/is/image/Tumi/1354971041_main?hei=280&wid=280&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "altPhoto": "https://tumi.scene7.com/is/image/Tumi/1354971041_alt1?hei=370&wid=330&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "rate": 5,
-      "cat": "Sidney Business Tote Leather",
-      "name": "Voyageur",
-      "price": "625.00",
+      "name": "Sidney Business Tote Leather",
+      "cat": "Voyageur",
+      "price": 625,
       "topic": "Lowest Price"
     },
     {
       "mainPhoto": "https://tumi.scene7.com/is/image/Tumi/1171631041_main?hei=280&wid=280&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "altPhoto": "https://tumi.scene7.com/is/image/Tumi/1171631041_alt1?hei=370&wid=330&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "rate": 5,
-      "cat": "Large Split 2 Wheeled Duffel",
-      "name": "Alpha 3",
-      "price": "895.00",
-      "topic": "Best Sellers"
+      "name": "Large Split 2 Wheeled Duffel",
+      "cat": "Alpha 3",
+      "price": 895,
+      "topic": "Relevance"
     },
     {
       "mainPhoto": "https://tumi.scene7.com/is/image/Tumi/1258901041_main?hei=280&wid=280&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "altPhoto": "https://tumi.scene7.com/is/image/Tumi/1258901041_alt1?hei=370&wid=330&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "rate": 5,
-      "cat": "Aviano Slim Brief Leather",
-      "name": "Alpha Bravo",
-      "price": "550.00",
-      "topic": "Top Rated"
+      "name": "Aviano Slim Brief Leather",
+      "cat": "Alpha Bravo",
+      "price": 550,
+      "topic": "Lowest Price"
     },
     {
       "mainPhoto": "https://tumi.scene7.com/is/image/Tumi/1173021041_main?hei=280&wid=280&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "altPhoto": "https://tumi.scene7.com/is/image/Tumi/1173021041_alt1?hei=370&wid=330&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "rate": 5,
-      "cat": "Compact Large Screen Laptop Brief",
-      "name": "Alpha 3",
-      "price": "425.00",
-      "topic": "Best Sellers"
+      "name": "Compact Large Screen Laptop Brief",
+      "cat": "Alpha 3",
+      "price": 425,
+      "topic": "Top Rated"
     },
     {
       "mainPhoto": "https://tumi.scene7.com/is/image/Tumi/1173081041_main?hei=280&wid=280&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "altPhoto": "https://tumi.scene7.com/is/image/Tumi/1173081041_alt1?hei=370&wid=330&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "rate": 5,
-      "cat": "Triple Compartment Brief",
-      "name": "Alpha 3",
-      "price": "475.00",
-      "topic": "Highest Price"
+      "name": "Triple Compartment Brief",
+      "cat": "Alpha 3",
+      "price": 475,
+      "topic": "Newest"
     },
     {
       "mainPhoto": "https://tumi.scene7.com/is/image/Tumi/1100421041_main?hei=280&wid=280&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "altPhoto": "https://tumi.scene7.com/is/image/Tumi/1100421041_alt1?hei=370&wid=330&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "rate": 5,
-      "cat": "Just In Case® Tote",
-      "name": "Voyageur",
-      "price": "100.00",
-      "topic": "Best Sellers"
+      "name": "Just In Case® Tote",
+      "cat": "Voyageur",
+      "price": 100,
+      "topic": "Relevance"
     },
     {
       "mainPhoto": "https://tumi.scene7.com/is/image/Tumi/1173121041_main?hei=280&wid=280&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "altPhoto": "https://tumi.scene7.com/is/image/Tumi/1173121041_alt1?hei=370&wid=330&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "rate": 5,
-      "cat": "Framed Soft Duffel",
-      "name": "Alpha 3",
-      "price": "525.00",
-      "topic": "Lowest Price"
+      "name": "Framed Soft Duffel",
+      "cat": "Alpha 3",
+      "price": 525,
+      "topic": "Best Sellers"
     },
     {
       "mainPhoto": "https://tumi.scene7.com/is/image/Tumi/1173211041_main?hei=280&wid=280&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "altPhoto": "https://tumi.scene7.com/is/image/Tumi/1173211041_alt1?hei=370&wid=330&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "rate": 4,
-      "cat": "Expandable Organizer Laptop Brief Leather",
-      "name": "Alpha 3",
-      "price": "725.00",
-      "topic": "Newest"
+      "name": "Expandable Organizer Laptop Brief Leather",
+      "cat": "Alpha 3",
+      "price": 725,
+      "topic": "Top Rated"
     },
     {
       "mainPhoto": "https://tumi.scene7.com/is/image/Tumi/1354991041_main?hei=280&wid=280&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "altPhoto": "https://tumi.scene7.com/is/image/Tumi/1354991041_alt1?hei=370&wid=330&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "rate": 4,
-      "cat": "Katy Crossbody Leather",
-      "name": "Voyageur",
-      "price": "195.00",
+      "name": "Katy Crossbody Leather",
+      "cat": "Voyageur",
+      "price": 195,
       "topic": "Relevance"
     },
     {
       "mainPhoto": "https://tumi.scene7.com/is/image/Tumi/1354841041_main?hei=280&wid=280&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "altPhoto": "https://tumi.scene7.com/is/image/Tumi/1354841041_alt1?hei=370&wid=330&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "rate": 0,
-      "cat": "Wynne Weekender",
-      "name": "Voyageur",
-      "price": "395.00",
-      "topic": "Relevance"
+      "name": "Wynne Weekender",
+      "cat": "Voyageur",
+      "price": 395,
+      "topic": "Lowest Price"
     },
     {
       "mainPhoto": "https://tumi.scene7.com/is/image/Tumi/1033071374_main?hei=280&wid=280&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "altPhoto": "https://tumi.scene7.com/is/image/Tumi/1033071374_alt1?hei=370&wid=330&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "rate": 5,
-      "cat": "Aviano Slim Brief",
-      "name": "Alpha Bravo",
-      "price": "395.00",
-      "topic": "Newest"
+      "name": "Aviano Slim Brief",
+      "cat": "Alpha Bravo",
+      "price": 395,
+      "topic": "Lowest Price"
     },
     {
       "mainPhoto": "https://tumi.scene7.com/is/image/Tumi/1354981041_main?hei=280&wid=280&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "altPhoto": "https://tumi.scene7.com/is/image/Tumi/1354981041_alt1?hei=370&wid=330&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "rate": 5,
-      "cat": "Marcie Crossbody Leather",
-      "name": "Voyageur",
-      "price": "295.00",
-      "topic": "Lowest Price"
+      "name": "Marcie Crossbody Leather",
+      "cat": "Voyageur",
+      "price": 295,
+      "topic": "Top Rated"
     },
     {
       "mainPhoto": "https://tumi.scene7.com/is/image/Tumi/1253881041_main?hei=280&wid=280&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "altPhoto": "https://tumi.scene7.com/is/image/Tumi/1253881041_alt1?hei=370&wid=330&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "rate": 5,
-      "cat": "Campbell Utility Pouch",
-      "name": "Alpha Bravo",
-      "price": "250.00",
-      "topic": "Best Sellers"
+      "name": "Campbell Utility Pouch",
+      "cat": "Alpha Bravo",
+      "price": 250,
+      "topic": "Newest"
     },
     {
       "mainPhoto": "https://tumi.scene7.com/is/image/Tumi/1250851041_main?hei=280&wid=280&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "altPhoto": "https://tumi.scene7.com/is/image/Tumi/1250851041_alt1?hei=370&wid=330&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "rate": 5,
-      "cat": "Bailey Business Tote",
-      "name": "Voyageur",
-      "price": "445.00",
-      "topic": "Newest"
+      "name": "Bailey Business Tote",
+      "cat": "Voyageur",
+      "price": 445,
+      "topic": "Best Sellers"
     },
     {
       "mainPhoto": "https://tumi.scene7.com/is/image/Tumi/1171581041_main?hei=280&wid=280&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "altPhoto": "https://tumi.scene7.com/is/image/Tumi/1171581041_alt1?hei=370&wid=330&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "rate": 5,
-      "cat": "Deluxe 4 Wheeled Laptop Case Brief",
-      "name": "Alpha 3",
-      "price": "1025.00",
+      "name": "Deluxe 4 Wheeled Laptop Case Brief",
+      "cat": "Alpha 3",
+      "price": 1025,
       "topic": "Relevance"
     },
     {
       "mainPhoto": "https://tumi.scene7.com/is/image/Tumi/1173241041_main?hei=280&wid=280&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "altPhoto": "https://tumi.scene7.com/is/image/Tumi/1173241041_alt1?hei=370&wid=330&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "rate": 4,
-      "cat": "Hannover Slim Brief",
-      "name": "Arrivé",
-      "price": "795.00",
-      "topic": "Relevance"
+      "name": "Hannover Slim Brief",
+      "cat": "Arrivé",
+      "price": 795,
+      "topic": "Newest"
     },
     {
       "mainPhoto": "https://tumi.scene7.com/is/image/Tumi/1173101041_main?hei=280&wid=280&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "altPhoto": "https://tumi.scene7.com/is/image/Tumi/1173101041_alt1?hei=370&wid=330&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "rate": 4,
-      "cat": "Organizer Travel Tote",
-      "name": "Alpha 3",
-      "price": "250.00",
+      "name": "Organizer Travel Tote",
+      "cat": "Alpha 3",
+      "price": 250,
       "topic": "Newest"
     },
     {
       "mainPhoto": "https://tumi.scene7.com/is/image/Tumi/1250481041_main?hei=280&wid=280&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "altPhoto": "https://tumi.scene7.com/is/image/Tumi/1250481041_alt1?hei=370&wid=330&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "rate": 5,
-      "cat": "Cleary Weekender",
-      "name": "Voyageur",
-      "price": "495.00",
-      "topic": "Lowest Price"
+      "name": "Cleary Weekender",
+      "cat": "Voyageur",
+      "price": 495,
+      "topic": "Top Rated"
     },
     {
       "mainPhoto": "https://tumi.scene7.com/is/image/Tumi/1173041041_main?hei=280&wid=280&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "altPhoto": "https://tumi.scene7.com/is/image/Tumi/1173041041_alt1?hei=370&wid=330&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "rate": 5,
-      "cat": "Organizer Brief",
-      "name": "Alpha 3",
-      "price": "495.00",
-      "topic": "Lowest Price"
+      "name": "Organizer Brief",
+      "cat": "Alpha 3",
+      "price": 495,
+      "topic": "Relevance"
     },
     {
       "mainPhoto": "https://tumi.scene7.com/is/image/Tumi/1253841041_main?hei=280&wid=280&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "altPhoto": "https://tumi.scene7.com/is/image/Tumi/1253841041_alt1?hei=370&wid=330&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "rate": 5,
-      "cat": "Barksdale Crossbody Leather",
-      "name": "Alpha Bravo",
-      "price": "395.00",
-      "topic": "Relevance"
+      "name": "Barksdale Crossbody Leather",
+      "cat": "Alpha Bravo",
+      "price": 395,
+      "topic": "Top Rated"
     },
     {
       "mainPhoto": "https://tumi.scene7.com/is/image/Tumi/1100381041_main?hei=280&wid=280&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "altPhoto": "https://tumi.scene7.com/is/image/Tumi/1100381041_alt1?hei=370&wid=330&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "rate": 5,
-      "cat": "Joanne Laptop Carrier",
-      "name": "Voyageur",
-      "price": "245.00",
-      "topic": "Relevance"
+      "name": "Joanne Laptop Carrier",
+      "cat": "Voyageur",
+      "price": 245,
+      "topic": "Best Sellers"
     },
     {
       "mainPhoto": "https://tumi.scene7.com/is/image/Tumi/1173201041_main?hei=280&wid=280&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "altPhoto": "https://tumi.scene7.com/is/image/Tumi/1173201041_alt1?hei=370&wid=330&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "rate": 4,
-      "cat": "Organizer Brief Leather",
-      "name": "Alpha 3",
-      "price": "675.00",
-      "topic": "Best Sellers"
+      "name": "Organizer Brief Leather",
+      "cat": "Alpha 3",
+      "price": 675,
+      "topic": "Relevance"
     },
     {
       "mainPhoto": "https://tumi.scene7.com/is/image/Tumi/1354891041_main?hei=280&wid=280&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "altPhoto": "https://tumi.scene7.com/is/image/Tumi/1354891041_alt1?hei=370&wid=330&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "rate": 0,
-      "cat": "Quinn Crossbody",
-      "name": "Voyageur",
-      "price": "195.00",
-      "topic": "Best Sellers"
+      "name": "Quinn Crossbody",
+      "cat": "Voyageur",
+      "price": 195,
+      "topic": "Lowest Price"
     },
     {
       "mainPhoto": "https://tumi.scene7.com/is/image/Tumi/1173331041_main?hei=280&wid=280&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "altPhoto": "https://tumi.scene7.com/is/image/Tumi/1173331041_alt1?hei=370&wid=330&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "rate": 5,
-      "cat": "Sadler Brief Leather",
-      "name": "Arrivé",
-      "price": "1100.00",
-      "topic": "Best Sellers"
+      "name": "Sadler Brief Leather",
+      "cat": "Arrivé",
+      "price": 1100,
+      "topic": "Highest Price"
     },
     {
       "mainPhoto": "https://tumi.scene7.com/is/image/Tumi/1173011041_main?hei=280&wid=280&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "altPhoto": "https://tumi.scene7.com/is/image/Tumi/1173011041_alt1?hei=370&wid=330&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "rate": 5,
-      "cat": "Slim Deluxe Portfolio",
-      "name": "Alpha 3",
-      "price": "350.00",
-      "topic": "Highest Price"
+      "name": "Slim Deluxe Portfolio",
+      "cat": "Alpha 3",
+      "price": 350,
+      "topic": "Top Rated"
     },
     {
       "mainPhoto": "https://tumi.scene7.com/is/image/Tumi/1253831041_main?hei=280&wid=280&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "altPhoto": "https://tumi.scene7.com/is/image/Tumi/1253831041_alt1?hei=370&wid=330&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "rate": 4,
-      "cat": "Barksdale Crossbody",
-      "name": "Alpha Bravo",
-      "price": "250.00",
-      "topic": "Highest Price"
+      "name": "Barksdale Crossbody",
+      "cat": "Alpha Bravo",
+      "price": 250,
+      "topic": "Relevance"
     },
     {
       "mainPhoto": "https://tumi.scene7.com/is/image/Tumi/1248531041_main?hei=280&wid=280&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "altPhoto": "https://tumi.scene7.com/is/image/Tumi/1248531041_alt1?hei=370&wid=330&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "rate": 4,
-      "cat": "Compact 4 Wheeled Brief",
-      "name": "TUMI V4",
-      "price": "495.00",
-      "topic": "Lowest Price"
+      "name": "Compact 4 Wheeled Brief",
+      "cat": "TUMI V4",
+      "price": 495,
+      "topic": "Highest Price"
     },
     {
       "mainPhoto": "https://tumi.scene7.com/is/image/Tumi/1173111041_main?hei=280&wid=280&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "altPhoto": "https://tumi.scene7.com/is/image/Tumi/1173111041_alt1?hei=370&wid=330&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "rate": 5,
-      "cat": "Medium Travel Tote",
-      "name": "Alpha 3",
-      "price": "295.00",
-      "topic": "Lowest Price"
+      "name": "Medium Travel Tote",
+      "cat": "Alpha 3",
+      "price": 295,
+      "topic": "Relevance"
     },
     {
       "mainPhoto": "https://tumi.scene7.com/is/image/Tumi/1304571041_main?hei=280&wid=280&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "altPhoto": "https://tumi.scene7.com/is/image/Tumi/1304571041_alt1?hei=370&wid=330&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "rate": 0,
-      "cat": "Hope Tote",
-      "name": "Devoe",
-      "price": "375.00",
-      "topic": "Lowest Price"
+      "name": "Hope Tote",
+      "cat": "Devoe",
+      "price": 375,
+      "topic": "Highest Price"
     },
     {
       "mainPhoto": "https://tumi.scene7.com/is/image/Tumi/1304541041_main?hei=280&wid=280&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "altPhoto": "https://tumi.scene7.com/is/image/Tumi/1304541041_alt1?hei=370&wid=330&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "rate": 4,
-      "cat": "Just In Case® North/South Tote",
-      "name": "Voyageur",
-      "price": "100.00",
+      "name": "Just In Case® North/South Tote",
+      "cat": "Voyageur",
+      "price": 100,
       "topic": "Highest Price"
     },
     {
       "mainPhoto": "https://tumi.scene7.com/is/image/Tumi/1171781041_main?hei=280&wid=280&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "altPhoto": "https://tumi.scene7.com/is/image/Tumi/1171781041_alt1?hei=370&wid=330&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "rate": 5,
-      "cat": "Compact 4 Wheeled Brief",
-      "name": "Arrivé",
-      "price": "1300.00",
-      "topic": "Newest"
+      "name": "Compact 4 Wheeled Brief",
+      "cat": "Arrivé",
+      "price": 1300,
+      "topic": "Highest Price"
     },
     {
       "mainPhoto": "https://tumi.scene7.com/is/image/Tumi/1305481041_main?hei=280&wid=280&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "altPhoto": "https://tumi.scene7.com/is/image/Tumi/1305481041_alt1?hei=370&wid=330&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "rate": 0,
-      "cat": "Sycamore Slim Brief",
-      "name": "Harrison",
-      "price": "425.00",
-      "topic": "Relevance"
+      "name": "Sycamore Slim Brief",
+      "cat": "Harrison",
+      "price": 425,
+      "topic": "Lowest Price"
     },
     {
       "mainPhoto": "https://tumi.scene7.com/is/image/Tumi/1355221041_main?hei=280&wid=280&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "altPhoto": "https://tumi.scene7.com/is/image/Tumi/1355221041_alt1?hei=370&wid=330&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "rate": 0,
-      "cat": "Everyday Tote Leather",
-      "name": "Voyageur",
-      "price": "445.00",
-      "topic": "Relevance"
+      "name": "Everyday Tote Leather",
+      "cat": "Voyageur",
+      "price": 445,
+      "topic": "Top Rated"
     },
     {
       "mainPhoto": "https://tumi.scene7.com/is/image/Tumi/1173221041_main?hei=280&wid=280&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "altPhoto": "https://tumi.scene7.com/is/image/Tumi/1173221041_alt1?hei=370&wid=330&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "rate": 5,
-      "cat": "Pocket Bag Small Leather",
-      "name": "Alpha 3",
-      "price": "275.00",
+      "name": "Pocket Bag Small Leather",
+      "cat": "Alpha 3",
+      "price": 275,
       "topic": "Highest Price"
     },
     {
       "mainPhoto": "https://tumi.scene7.com/is/image/Tumi/1305281041_main?hei=280&wid=280&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "altPhoto": "https://tumi.scene7.com/is/image/Tumi/1305281041_alt1?hei=370&wid=330&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "rate": 0,
-      "cat": "Lincoln Brief",
-      "name": "Arrivé",
-      "price": "850.00",
-      "topic": "Best Sellers"
+      "name": "Lincoln Brief",
+      "cat": "Arrivé",
+      "price": 850,
+      "topic": "Highest Price"
     },
     {
       "mainPhoto": "https://tumi.scene7.com/is/image/Tumi/1305541041_main?hei=280&wid=280&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "altPhoto": "https://tumi.scene7.com/is/image/Tumi/1305541041_alt1?hei=370&wid=330&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "rate": 0,
-      "cat": "Tower Portfolio Brief",
-      "name": "Harrison",
-      "price": "375.00",
-      "topic": "Best Sellers"
+      "name": "Tower Portfolio Brief",
+      "cat": "Harrison",
+      "price": 375,
+      "topic": "Highest Price"
     },
     {
       "mainPhoto": "https://tumi.scene7.com/is/image/Tumi/1354811041_main?hei=280&wid=280&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "altPhoto": "https://tumi.scene7.com/is/image/Tumi/1354811041_alt2?hei=370&wid=330&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "rate": 0,
-      "cat": "Clare Double Zip Brief",
-      "name": "Voyageur",
-      "price": "395.00",
-      "topic": "Relevance"
+      "name": "Clare Double Zip Brief",
+      "cat": "Voyageur",
+      "price": 395,
+      "topic": "Best Sellers"
     },
     {
       "mainPhoto": "https://tumi.scene7.com/is/image/Tumi/1173301041_main?hei=280&wid=280&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "altPhoto": "https://tumi.scene7.com/is/image/Tumi/1173301041_alt1?hei=370&wid=330&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "rate": 5,
-      "cat": "Lyons Crossbody",
-      "name": "Arrivé",
-      "price": "495.00",
+      "name": "Lyons Crossbody",
+      "cat": "Arrivé",
+      "price": 495,
       "topic": "Highest Price"
     },
     {
       "mainPhoto": "https://tumi.scene7.com/is/image/Tumi/1305391041_main?hei=280&wid=280&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "altPhoto": "https://tumi.scene7.com/is/image/Tumi/1305391041_alt1?hei=370&wid=330&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "rate": 5,
-      "cat": "Dante Utility Pouch",
-      "name": "Harrison",
-      "price": "295.00",
-      "topic": "Newest"
+      "name": "Dante Utility Pouch",
+      "cat": "Harrison",
+      "price": 295,
+      "topic": "Top Rated"
     },
     {
       "mainPhoto": "https://tumi.scene7.com/is/image/Tumi/1305151041_main?hei=280&wid=280&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "altPhoto": "https://tumi.scene7.com/is/image/Tumi/1305151041_alt1?hei=370&wid=330&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "rate": 5,
-      "cat": "Jackson Crossbody",
-      "name": "Alpha Bravo",
-      "price": "295.00",
-      "topic": "Highest Price"
+      "name": "Jackson Crossbody",
+      "cat": "Alpha Bravo",
+      "price": 295,
+      "topic": "Relevance"
     },
     {
       "mainPhoto": "https://tumi.scene7.com/is/image/Tumi/1032981041_main?hei=280&wid=280&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "altPhoto": "https://tumi.scene7.com/is/image/Tumi/1032981041_alt1?hei=370&wid=330&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "rate": 5,
-      "cat": "Arnold Zip Flap",
-      "name": "Alpha Bravo",
-      "price": "325.00",
-      "topic": "Best Sellers"
+      "name": "Arnold Zip Flap",
+      "cat": "Alpha Bravo",
+      "price": 325,
+      "topic": "Newest"
     },
     {
       "mainPhoto": "https://tumi.scene7.com/is/image/Tumi/1337031041_main?hei=280&wid=280&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "altPhoto": "https://tumi.scene7.com/is/image/Tumi/1337031041_alt1?hei=370&wid=330&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "rate": 0,
-      "cat": "Preston Large Portfolio",
-      "name": "Harrison",
-      "price": "175.00",
-      "topic": "Highest Price"
+      "name": "Preston Large Portfolio",
+      "cat": "Harrison",
+      "price": 175,
+      "topic": "Relevance"
     },
     {
       "mainPhoto": "https://tumi.scene7.com/is/image/Tumi/1305321041_main?hei=280&wid=280&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "altPhoto": "https://tumi.scene7.com/is/image/Tumi/1305321041_alt1?hei=370&wid=330&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "rate": 5,
-      "cat": "Bradner Backpack Leather",
-      "name": "Harrison",
-      "price": "650.00",
-      "topic": "Top Rated"
+      "name": "Bradner Backpack Leather",
+      "cat": "Harrison",
+      "price": 650,
+      "topic": "Relevance"
     },
     {
       "mainPhoto": "https://tumi.scene7.com/is/image/Tumi/1367861596_main?hei=280&wid=280&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "altPhoto": "https://tumi.scene7.com/is/image/Tumi/1367861596_alt1?hei=370&wid=330&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "rate": 0,
-      "cat": "Everyday Tote",
-      "name": "Voyageur",
-      "price": "445.00",
+      "name": "Everyday Tote",
+      "cat": "Voyageur",
+      "price": 445,
       "topic": "Newest"
     },
     {
       "mainPhoto": "https://tumi.scene7.com/is/image/Tumi/1171691041_main?hei=280&wid=280&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "altPhoto": "https://tumi.scene7.com/is/image/Tumi/1171691041_alt1?hei=370&wid=330&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "rate": 5,
-      "cat": "Tall 4 Wheeled Duffel Packing Case",
-      "name": "Alpha 3",
-      "price": "1275.00",
-      "topic": "Relevance"
+      "name": "Tall 4 Wheeled Duffel Packing Case",
+      "cat": "Alpha 3",
+      "price": 1275,
+      "topic": "Lowest Price"
     },
     {
       "mainPhoto": "https://tumi.scene7.com/is/image/Tumi/1305501041_main?hei=280&wid=280&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "altPhoto": "https://tumi.scene7.com/is/image/Tumi/1305501041_alt1?hei=370&wid=330&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "rate": 0,
-      "cat": "Shawnee Crossbody",
-      "name": "Harrison",
-      "price": "325.00",
-      "topic": "Relevance"
+      "name": "Shawnee Crossbody",
+      "cat": "Harrison",
+      "price": 325,
+      "topic": "Highest Price"
     },
     {
       "mainPhoto": "https://tumi.scene7.com/is/image/Tumi/1305361041_main?hei=280&wid=280&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "altPhoto": "https://tumi.scene7.com/is/image/Tumi/1305361041_alt1?hei=370&wid=330&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "rate": 5,
-      "cat": "Barnes Brief Leather",
-      "name": "Harrison",
-      "price": "595.00",
+      "name": "Barnes Brief Leather",
+      "cat": "Harrison",
+      "price": 595,
       "topic": "Top Rated"
     },
     {
       "mainPhoto": "https://tumi.scene7.com/is/image/Tumi/1305521041_main?hei=280&wid=280&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "altPhoto": "https://tumi.scene7.com/is/image/Tumi/1305521041_alt1?hei=370&wid=330&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "rate": 5,
-      "cat": "Sherman Crossbody Leather",
-      "name": "Harrison",
-      "price": "395.00",
-      "topic": "Lowest Price"
+      "name": "Sherman Crossbody Leather",
+      "cat": "Harrison",
+      "price": 395,
+      "topic": "Best Sellers"
     },
     {
       "mainPhoto": "https://tumi.scene7.com/is/image/Tumi/1173031041_main?hei=280&wid=280&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "altPhoto": "https://tumi.scene7.com/is/image/Tumi/1173031041_alt1?hei=370&wid=330&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "rate": 5,
-      "cat": "Small Screen Expandable Laptop Brief",
-      "name": "Alpha 3",
-      "price": "425.00",
+      "name": "Small Screen Expandable Laptop Brief",
+      "cat": "Alpha 3",
+      "price": 425,
       "topic": "Lowest Price"
     },
     {
       "mainPhoto": "https://tumi.scene7.com/is/image/Tumi/1355031041_main?hei=280&wid=280&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "altPhoto": "https://tumi.scene7.com/is/image/Tumi/1355031041_alt1?hei=370&wid=330&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "rate": 0,
-      "cat": "Hazel Crossbody",
-      "name": "Devoe",
-      "price": "275.00",
-      "topic": "Top Rated"
+      "name": "Hazel Crossbody",
+      "cat": "Devoe",
+      "price": 275,
+      "topic": "Newest"
     },
     {
       "mainPhoto": "https://tumi.scene7.com/is/image/Tumi/1305471041_main?hei=280&wid=280&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "altPhoto": "https://tumi.scene7.com/is/image/Tumi/1305471041_alt1?hei=370&wid=330&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "rate": 5,
-      "cat": "Sycamore Slim Brief Leather",
-      "name": "Harrison",
-      "price": "550.00",
-      "topic": "Best Sellers"
+      "name": "Sycamore Slim Brief Leather",
+      "cat": "Harrison",
+      "price": 550,
+      "topic": "Relevance"
     },
     {
       "mainPhoto": "https://tumi.scene7.com/is/image/Tumi/1033221041_main?hei=280&wid=280&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "altPhoto": "https://tumi.scene7.com/is/image/Tumi/1033221041_alt1?hei=370&wid=330&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "rate": 4,
-      "cat": "Lewis Crossbody",
-      "name": "Alpha Bravo",
-      "price": "275.00",
-      "topic": "Highest Price"
+      "name": "Lewis Crossbody",
+      "cat": "Alpha Bravo",
+      "price": 275,
+      "topic": "Lowest Price"
     },
     {
       "mainPhoto": "https://tumi.scene7.com/is/image/Tumi/1305511596_main?hei=280&wid=280&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "altPhoto": "https://tumi.scene7.com/is/image/Tumi/1305511596_alt1?hei=370&wid=330&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "rate": 0,
-      "cat": "Sherman Crossbody",
-      "name": "Harrison",
-      "price": "325.00",
-      "topic": "Highest Price"
+      "name": "Sherman Crossbody",
+      "cat": "Harrison",
+      "price": 325,
+      "topic": "Top Rated"
     },
     {
       "mainPhoto": "https://tumi.scene7.com/is/image/Tumi/1171641041_main?hei=280&wid=280&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "altPhoto": "https://tumi.scene7.com/is/image/Tumi/1171641041_alt1?hei=370&wid=330&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "rate": 4,
-      "cat": "Compact 4 Wheeled Duffel",
-      "name": "Alpha 3",
-      "price": "750.00",
-      "topic": "Highest Price"
+      "name": "Compact 4 Wheeled Duffel",
+      "cat": "Alpha 3",
+      "price": 750,
+      "topic": "Newest"
     },
     {
       "mainPhoto": "https://tumi.scene7.com/is/image/Tumi/1313111041_main?hei=280&wid=280&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "altPhoto": "https://tumi.scene7.com/is/image/Tumi/1313111041_alt1?hei=370&wid=330&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "rate": 4,
-      "cat": "Small Compact 4 Wheeled Brief",
-      "name": "Merge",
-      "price": "575.00",
-      "topic": "Lowest Price"
+      "name": "Small Compact 4 Wheeled Brief",
+      "cat": "Merge",
+      "price": 575,
+      "topic": "Best Sellers"
     },
     {
       "mainPhoto": "https://tumi.scene7.com/is/image/Tumi/1305411041_main?hei=280&wid=280&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "altPhoto": "https://tumi.scene7.com/is/image/Tumi/1305411041_alt2?hei=370&wid=330&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "rate": 5,
-      "cat": "Dante Utility Pouch Leather",
-      "name": "Harrison",
-      "price": "350.00",
-      "topic": "Relevance"
+      "name": "Dante Utility Pouch Leather",
+      "cat": "Harrison",
+      "price": 350,
+      "topic": "Highest Price"
     },
     {
       "mainPhoto": "https://tumi.scene7.com/is/image/Tumi/1171571041_main?hei=280&wid=280&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "altPhoto": "https://tumi.scene7.com/is/image/Tumi/1171571041_alt1?hei=370&wid=330&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "rate": 0,
-      "cat": "Compact 4 Wheeled Brief",
-      "name": "Alpha 3",
-      "price": "775.00",
-      "topic": "Best Sellers"
+      "name": "Compact 4 Wheeled Brief",
+      "cat": "Alpha 3",
+      "price": 775,
+      "topic": "Lowest Price"
     },
     {
       "mainPhoto": "https://tumi.scene7.com/is/image/Tumi/1173191041_main?hei=280&wid=280&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "altPhoto": "https://tumi.scene7.com/is/image/Tumi/1173191041_alt1?hei=370&wid=330&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "rate": 5,
-      "cat": "Organizer Portfolio Brief Leather",
-      "name": "Alpha 3",
-      "price": "595.00",
-      "topic": "Newest"
+      "name": "Organizer Portfolio Brief Leather",
+      "cat": "Alpha 3",
+      "price": 595,
+      "topic": "Best Sellers"
     },
     {
       "mainPhoto": "https://tumi.scene7.com/is/image/Tumi/1173291041_main?hei=280&wid=280&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "altPhoto": "https://tumi.scene7.com/is/image/Tumi/1173291041_alt1?hei=370&wid=330&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "rate": 5,
-      "cat": "Olten Crossbody",
-      "name": "Arrivé",
-      "price": "450.00",
+      "name": "Olten Crossbody",
+      "cat": "Arrivé",
+      "price": 450,
       "topic": "Newest"
     },
     {
       "mainPhoto": "https://tumi.scene7.com/is/image/Tumi/1305681041_main?hei=280&wid=280&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "altPhoto": "https://tumi.scene7.com/is/image/Tumi/1305681041_alt1?hei=370&wid=330&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "rate": 0,
-      "cat": "Lincoln Brief Leather",
-      "name": "Arrivé",
-      "price": "1050.00",
-      "topic": "Top Rated"
+      "name": "Lincoln Brief Leather",
+      "cat": "Arrivé",
+      "price": 1050,
+      "topic": "Best Sellers"
     },
     {
       "mainPhoto": "https://tumi.scene7.com/is/image/Tumi/1173321041_main?hei=280&wid=280&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "altPhoto": "https://tumi.scene7.com/is/image/Tumi/1173321041_alt1?hei=370&wid=330&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "rate": 5,
-      "cat": "Hannover Slim Brief Leather",
-      "name": "Arrivé",
-      "price": "995.00",
+      "name": "Hannover Slim Brief Leather",
+      "cat": "Arrivé",
+      "price": 995,
       "topic": "Highest Price"
     },
     {
       "mainPhoto": "https://tumi.scene7.com/is/image/Tumi/1173371041_main?hei=280&wid=280&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "altPhoto": "https://tumi.scene7.com/is/image/Tumi/1173371041_alt1?hei=370&wid=330&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "rate": 4,
-      "cat": "Expandable Tote",
-      "name": "Alpha 3",
-      "price": "450.00",
-      "topic": "Best Sellers"
+      "name": "Expandable Tote",
+      "cat": "Alpha 3",
+      "price": 450,
+      "topic": "Relevance"
     },
     {
       "mainPhoto": "https://tumi.scene7.com/is/image/Tumi/1305441041_main?hei=280&wid=280&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "altPhoto": "https://tumi.scene7.com/is/image/Tumi/1305441041_alt1?hei=370&wid=330&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "rate": 5,
-      "cat": "Harrow Double Zip Brief Leather",
-      "name": "Harrison",
-      "price": "650.00",
-      "topic": "Lowest Price"
+      "name": "Harrow Double Zip Brief Leather",
+      "cat": "Harrison",
+      "price": 650,
+      "topic": "Relevance"
     },
     {
       "mainPhoto": "https://tumi.scene7.com/is/image/Tumi/1355271164_main?hei=280&wid=280&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "altPhoto": "https://tumi.scene7.com/is/image/Tumi/1355271164_alt1?hei=370&wid=330&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "rate": 0,
-      "cat": "Halls Slim Brief",
-      "name": "Ashton",
-      "price": "1300.00",
+      "name": "Halls Slim Brief",
+      "cat": "Ashton",
+      "price": 1300,
       "topic": "Newest"
     },
     {
       "mainPhoto": "https://tumi.scene7.com/is/image/Tumi/1173001041_main?hei=280&wid=280&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "altPhoto": "https://tumi.scene7.com/is/image/Tumi/1173001041_alt1?hei=370&wid=330&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "rate": 0,
-      "cat": "Organizer Portfolio Brief",
-      "name": "Alpha 3",
-      "price": "425.00",
-      "topic": "Best Sellers"
+      "name": "Organizer Portfolio Brief",
+      "cat": "Alpha 3",
+      "price": 425,
+      "topic": "Top Rated"
     },
     {
       "mainPhoto": "https://tumi.scene7.com/is/image/Tumi/1355267251_main?hei=280&wid=280&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "altPhoto": "https://tumi.scene7.com/is/image/Tumi/1355267251_alt1?hei=370&wid=330&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "rate": 0,
-      "cat": "Halls Slim Brief Leather",
-      "name": "Ashton",
-      "price": "1100.00",
-      "topic": "Lowest Price"
+      "name": "Halls Slim Brief Leather",
+      "cat": "Ashton",
+      "price": 1100,
+      "topic": "Best Sellers"
     },
     {
       "mainPhoto": "https://tumi.scene7.com/is/image/Tumi/1305351041_main?hei=280&wid=280&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "altPhoto": "https://tumi.scene7.com/is/image/Tumi/1305351041_alt1?hei=370&wid=330&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "rate": 5,
-      "cat": "Barnes Brief",
-      "name": "Harrison",
-      "price": "450.00",
-      "topic": "Newest"
+      "name": "Barnes Brief",
+      "cat": "Harrison",
+      "price": 450,
+      "topic": "Relevance"
     },
     {
       "mainPhoto": "https://tumi.scene7.com/is/image/Tumi/1173251041_main?hei=280&wid=280&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "altPhoto": "https://tumi.scene7.com/is/image/Tumi/1173251041_alt1?hei=370&wid=330&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "rate": 5,
-      "cat": "Sadler Brief",
-      "name": "Arrivé",
-      "price": "895.00",
-      "topic": "Highest Price"
+      "name": "Sadler Brief",
+      "cat": "Arrivé",
+      "price": 895,
+      "topic": "Top Rated"
     },
     {
       "mainPhoto": "https://tumi.scene7.com/is/image/Tumi/1305531041_main?hei=280&wid=280&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "altPhoto": "https://tumi.scene7.com/is/image/Tumi/1305531041_alt1?hei=370&wid=330&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "rate": 0,
-      "cat": "Tower Portfolio Brief Leather",
-      "name": "Harrison",
-      "price": "475.00",
-      "topic": "Newest"
+      "name": "Tower Portfolio Brief Leather",
+      "cat": "Harrison",
+      "price": 475,
+      "topic": "Lowest Price"
     },
     {
       "mainPhoto": "https://tumi.scene7.com/is/image/Tumi/1248461060_main?hei=280&wid=280&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "altPhoto": "https://tumi.scene7.com/is/image/Tumi/1248461060_alt1?hei=370&wid=330&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "rate": 4,
-      "cat": "Compact 4 Wheeled Brief",
-      "name": "Tegra-Lite® 2",
-      "price": "775.00",
-      "topic": "Highest Price"
+      "name": "Compact 4 Wheeled Brief",
+      "cat": "Tegra-Lite® 2",
+      "price": 775,
+      "topic": "Lowest Price"
     },
     {
       "mainPhoto": "https://tumi.scene7.com/is/image/Tumi/1173141009_main?hei=280&wid=280&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "altPhoto": "https://tumi.scene7.com/is/image/Tumi/1173141009_alt1?hei=370&wid=330&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "rate": 5,
-      "cat": "Slim Deluxe Portfolio",
-      "name": "Alpha 3",
-      "price": "350.00",
-      "topic": "Highest Price"
+      "name": "Slim Deluxe Portfolio",
+      "cat": "Alpha 3",
+      "price": 350,
+      "topic": "Top Rated"
     },
     {
       "mainPhoto": "https://tumi.scene7.com/is/image/Tumi/1173451041_main?hei=280&wid=280&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "altPhoto": "https://tumi.scene7.com/is/image/Tumi/1173451041_alt1?hei=370&wid=330&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "rate": 5,
-      "cat": "Pocket Bag Small",
-      "name": "Alpha 3",
-      "price": "175.00",
-      "topic": "Relevance"
+      "name": "Pocket Bag Small",
+      "cat": "Alpha 3",
+      "price": 175,
+      "topic": "Newest"
     },
     {
       "mainPhoto": "https://tumi.scene7.com/is/image/Tumi/1173461041_main?hei=280&wid=280&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "altPhoto": "https://tumi.scene7.com/is/image/Tumi/1173461041_alt1?hei=370&wid=330&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "rate": 5,
-      "cat": "Slim Three Way Brief",
-      "name": "Alpha 3",
-      "price": "475.00",
-      "topic": "Lowest Price"
+      "name": "Slim Three Way Brief",
+      "cat": "Alpha 3",
+      "price": 475,
+      "topic": "Highest Price"
     },
     {
       "mainPhoto": "https://tumi.scene7.com/is/image/Tumi/1100382156_main?hei=280&wid=280&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "altPhoto": "https://tumi.scene7.com/is/image/Tumi/1100382156_alt1?hei=370&wid=330&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "rate": 5,
-      "cat": "Joanne Laptop Carrier",
-      "name": "Voyageur",
-      "price": "245.00",
-      "topic": "Highest Price"
+      "name": "Joanne Laptop Carrier",
+      "cat": "Voyageur",
+      "price": 245,
+      "topic": "Newest"
     },
     {
       "mainPhoto": "https://tumi.scene7.com/is/image/Tumi/1100439054_main?hei=280&wid=280&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "altPhoto": "https://tumi.scene7.com/is/image/Tumi/1100439054_alt1?hei=370&wid=330&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "rate": 5,
-      "cat": "Just In Case® Tote",
-      "name": "Voyageur",
-      "price": "100.00",
-      "topic": "Best Sellers"
+      "name": "Just In Case® Tote",
+      "cat": "Voyageur",
+      "price": 100,
+      "topic": "Lowest Price"
     },
     {
       "mainPhoto": "https://tumi.scene7.com/is/image/Tumi/1099931438_main?hei=280&wid=280&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "altPhoto": "https://tumi.scene7.com/is/image/Tumi/1099931438_alt1?hei=370&wid=330&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "rate": 5,
-      "cat": "Ruma Crossbody",
-      "name": "Voyageur",
-      "price": "145.00",
-      "topic": "Top Rated"
+      "name": "Ruma Crossbody",
+      "cat": "Voyageur",
+      "price": 145,
+      "topic": "Best Sellers"
     },
     {
       "mainPhoto": "https://tumi.scene7.com/is/image/Tumi/1033061041_main?hei=280&wid=280&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "altPhoto": "https://tumi.scene7.com/is/image/Tumi/1033061041_alt1?hei=370&wid=330&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "rate": 5,
-      "cat": "Albany Slim Commuter Brief",
-      "name": "Alpha Bravo",
-      "price": "450.00",
-      "topic": "Relevance"
+      "name": "Albany Slim Commuter Brief",
+      "cat": "Alpha Bravo",
+      "price": 450,
+      "topic": "Newest"
     },
     {
       "mainPhoto": "https://tumi.scene7.com/is/image/Tumi/1173401009_main?hei=280&wid=280&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "altPhoto": "https://tumi.scene7.com/is/image/Tumi/1173401009_alt1?hei=370&wid=330&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "rate": 5,
-      "cat": "Organizer Brief",
-      "name": "Alpha 3",
-      "price": "495.00",
-      "topic": "Best Sellers"
+      "name": "Organizer Brief",
+      "cat": "Alpha 3",
+      "price": 495,
+      "topic": "Newest"
     },
     {
       "mainPhoto": "https://tumi.scene7.com/is/image/Tumi/1305621596_main?hei=280&wid=280&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "altPhoto": "https://tumi.scene7.com/is/image/Tumi/1305621596_alt1?hei=370&wid=330&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "rate": 4,
-      "cat": "Hannover Slim Brief",
-      "name": "Arrivé",
-      "price": "795.00",
-      "topic": "Relevance"
+      "name": "Hannover Slim Brief",
+      "cat": "Arrivé",
+      "price": 795,
+      "topic": "Newest"
     },
     {
       "mainPhoto": "https://tumi.scene7.com/is/image/Tumi/1305481596_main?hei=280&wid=280&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "altPhoto": "https://tumi.scene7.com/is/image/Tumi/1305481596_alt1?hei=370&wid=330&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "rate": 0,
-      "cat": "Sycamore Slim Brief",
-      "name": "Harrison",
-      "price": "425.00",
-      "topic": "Lowest Price"
+      "name": "Sycamore Slim Brief",
+      "cat": "Harrison",
+      "price": 425,
+      "topic": "Relevance"
     },
     {
       "mainPhoto": "https://tumi.scene7.com/is/image/Tumi/1099932156_main?hei=280&wid=280&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "altPhoto": "https://tumi.scene7.com/is/image/Tumi/1099932156_alt1?hei=370&wid=330&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "rate": 5,
-      "cat": "Ruma Crossbody",
-      "name": "Voyageur",
-      "price": "145.00",
-      "topic": "Highest Price"
+      "name": "Ruma Crossbody",
+      "cat": "Voyageur",
+      "price": 145,
+      "topic": "Best Sellers"
     },
     {
       "mainPhoto": "https://tumi.scene7.com/is/image/Tumi/1354892156_main?hei=280&wid=280&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "altPhoto": "https://tumi.scene7.com/is/image/Tumi/1354892156_alt1?hei=370&wid=330&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "rate": 0,
-      "cat": "Quinn Crossbody",
-      "name": "Voyageur",
-      "price": "195.00",
-      "topic": "Lowest Price"
+      "name": "Quinn Crossbody",
+      "cat": "Voyageur",
+      "price": 195,
+      "topic": "Best Sellers"
     },
     {
       "mainPhoto": "https://tumi.scene7.com/is/image/Tumi/1367862156_main?hei=280&wid=280&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "altPhoto": "https://tumi.scene7.com/is/image/Tumi/1367862156_alt1?hei=370&wid=330&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "rate": 0,
-      "cat": "Everyday Tote",
-      "name": "Voyageur",
-      "price": "445.00",
-      "topic": "Top Rated"
+      "name": "Everyday Tote",
+      "cat": "Voyageur",
+      "price": 445,
+      "topic": "Best Sellers"
     },
     {
       "mainPhoto": "https://tumi.scene7.com/is/image/Tumi/1355231041_main?hei=280&wid=280&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "altPhoto": "https://tumi.scene7.com/is/image/Tumi/1355231041_alt1?hei=370&wid=330&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "rate": 0,
-      "cat": "Cameron Business Brief Leather",
-      "name": "Voyageur",
-      "price": "625.00",
-      "topic": "Highest Price"
+      "name": "Cameron Business Brief Leather",
+      "cat": "Voyageur",
+      "price": 625,
+      "topic": "Lowest Price"
     },
     {
       "mainPhoto": "https://tumi.scene7.com/is/image/Tumi/131958T273_main?hei=280&wid=280&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "altPhoto": "https://tumi.scene7.com/is/image/Tumi/131958T273_alt1?hei=370&wid=330&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "rate": 5,
-      "cat": "Tula Crossbody",
-      "name": "Voyageur",
-      "price": "245.00",
-      "topic": "Newest"
+      "name": "Tula Crossbody",
+      "cat": "Voyageur",
+      "price": 245,
+      "topic": "Top Rated"
     },
     {
       "mainPhoto": "https://tumi.scene7.com/is/image/Tumi/1173411009_main?hei=280&wid=280&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "altPhoto": "https://tumi.scene7.com/is/image/Tumi/1173411009_alt1?hei=370&wid=330&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "rate": 5,
-      "cat": "Triple Compartment Brief",
-      "name": "Alpha 3",
-      "price": "475.00",
-      "topic": "Best Sellers"
+      "name": "Triple Compartment Brief",
+      "cat": "Alpha 3",
+      "price": 475,
+      "topic": "Lowest Price"
     },
     {
       "mainPhoto": "https://tumi.scene7.com/is/image/Tumi/1099702156_main?hei=280&wid=280&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "altPhoto": "https://tumi.scene7.com/is/image/Tumi/1099702156_alt1?hei=370&wid=330&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "rate": 5,
-      "cat": "Troy Crossbody",
-      "name": "Voyageur",
-      "price": "245.00",
-      "topic": "Newest"
+      "name": "Troy Crossbody",
+      "cat": "Voyageur",
+      "price": 245,
+      "topic": "Best Sellers"
     },
     {
       "mainPhoto": "https://tumi.scene7.com/is/image/Tumi/1100422156_main?hei=280&wid=280&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "altPhoto": "https://tumi.scene7.com/is/image/Tumi/1100422156_alt1?hei=370&wid=330&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "rate": 5,
-      "cat": "Just In Case® Tote",
-      "name": "Voyageur",
-      "price": "100.00",
-      "topic": "Highest Price"
+      "name": "Just In Case® Tote",
+      "cat": "Voyageur",
+      "price": 100,
+      "topic": "Best Sellers"
     },
     {
       "mainPhoto": "https://tumi.scene7.com/is/image/Tumi/1304542156_main?hei=280&wid=280&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "altPhoto": "https://tumi.scene7.com/is/image/Tumi/1304542156_alt1?hei=370&wid=330&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "rate": 4,
-      "cat": "Just In Case® North/South Tote",
-      "name": "Voyageur",
-      "price": "100.00",
-      "topic": "Newest"
+      "name": "Just In Case® North/South Tote",
+      "cat": "Voyageur",
+      "price": 100,
+      "topic": "Best Sellers"
     },
     {
       "mainPhoto": "https://tumi.scene7.com/is/image/Tumi/1319582156_main?hei=280&wid=280&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "altPhoto": "https://tumi.scene7.com/is/image/Tumi/1319582156_alt1?hei=370&wid=330&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "rate": 5,
-      "cat": "Tula Crossbody",
-      "name": "Voyageur",
-      "price": "245.00",
+      "name": "Tula Crossbody",
+      "cat": "Voyageur",
+      "price": 245,
       "topic": "Highest Price"
     },
     {
       "mainPhoto": "https://tumi.scene7.com/is/image/Tumi/1371961366_main?hei=280&wid=280&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "altPhoto": "https://tumi.scene7.com/is/image/Tumi/1371961366_alt1?hei=370&wid=330&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "rate": 5,
-      "cat": "Marcie Crossbody Leather",
-      "name": "Voyageur",
-      "price": "420.00",
-      "topic": "Lowest Price"
+      "name": "Marcie Crossbody Leather",
+      "cat": "Voyageur",
+      "price": 420,
+      "topic": "Relevance"
     },
     {
       "mainPhoto": "https://tumi.scene7.com/is/image/Tumi/1371971366_main?hei=280&wid=280&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "altPhoto": "https://tumi.scene7.com/is/image/Tumi/1371971366_alt1?hei=370&wid=330&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "rate": 4,
-      "cat": "Katy Crossbody Leather",
-      "name": "Voyageur",
-      "price": "320.00",
-      "topic": "Top Rated"
+      "name": "Katy Crossbody Leather",
+      "cat": "Voyageur",
+      "price": 320,
+      "topic": "Newest"
     },
     {
       "mainPhoto": "https://tumi.scene7.com/is/image/Tumi/1354909054_main?hei=280&wid=280&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "altPhoto": "https://tumi.scene7.com/is/image/Tumi/1354909054_alt1?hei=370&wid=330&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "rate": 4,
-      "cat": "Everyday Tote",
-      "name": "Voyageur",
-      "price": "295.00",
-      "topic": "Relevance"
+      "name": "Everyday Tote",
+      "cat": "Voyageur",
+      "price": 295,
+      "topic": "Top Rated"
     },
     {
       "mainPhoto": "https://tumi.scene7.com/is/image/Tumi/1033141041_main?hei=280&wid=280&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "altPhoto": "https://tumi.scene7.com/is/image/Tumi/1033141041_alt1?hei=370&wid=330&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "rate": 5,
-      "cat": "Aviano Slim Brief",
-      "name": "Alpha Bravo",
-      "price": "395.00",
-      "topic": "Newest"
+      "name": "Aviano Slim Brief",
+      "cat": "Alpha Bravo",
+      "price": 395,
+      "topic": "Highest Price"
     },
     {
       "mainPhoto": "https://tumi.scene7.com/is/image/Tumi/1335712156_main?hei=280&wid=280&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "altPhoto": "https://tumi.scene7.com/is/image/Tumi/1335712156_alt1?hei=370&wid=330&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "rate": 4,
-      "cat": "Everyday Tote",
-      "name": "Voyageur",
-      "price": "295.00",
-      "topic": "Relevance"
+      "name": "Everyday Tote",
+      "cat": "Voyageur",
+      "price": 295,
+      "topic": "Top Rated"
     },
     {
       "mainPhoto": "https://tumi.scene7.com/is/image/Tumi/1253461164_main?hei=280&wid=280&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "altPhoto": "https://tumi.scene7.com/is/image/Tumi/1253461164_alt1?hei=370&wid=330&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "rate": 5,
-      "cat": "Barnet Double Zip Brief",
-      "name": "Ashton",
-      "price": "1350.00",
-      "topic": "Highest Price"
+      "name": "Barnet Double Zip Brief",
+      "cat": "Ashton",
+      "price": 1350,
+      "topic": "Newest"
     },
     {
       "mainPhoto": "https://tumi.scene7.com/is/image/Tumi/1099931077_main?hei=280&wid=280&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "altPhoto": "https://tumi.scene7.com/is/image/Tumi/1099931077_alt1?hei=370&wid=330&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "rate": 5,
-      "cat": "Ruma Crossbody",
-      "name": "Voyageur",
-      "price": "145.00",
-      "topic": "Relevance"
+      "name": "Ruma Crossbody",
+      "cat": "Voyageur",
+      "price": 145,
+      "topic": "Best Sellers"
     },
     {
       "mainPhoto": "https://tumi.scene7.com/is/image/Tumi/1305541596_main?hei=280&wid=280&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "altPhoto": "https://tumi.scene7.com/is/image/Tumi/1305541596_alt1?hei=370&wid=330&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "rate": 0,
-      "cat": "Tower Portfolio Brief",
-      "name": "Harrison",
-      "price": "375.00",
-      "topic": "Lowest Price"
+      "name": "Tower Portfolio Brief",
+      "cat": "Harrison",
+      "price": 375,
+      "topic": "Top Rated"
     },
     {
       "mainPhoto": "https://tumi.scene7.com/is/image/Tumi/136457T522_main?hei=280&wid=280&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "altPhoto": "https://tumi.scene7.com/is/image/Tumi/136457T522_alt1?hei=370&wid=330&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "rate": 5,
-      "cat": "Sheryl Business Tote",
-      "name": "Voyageur",
-      "price": "425.00",
+      "name": "Sheryl Business Tote",
+      "cat": "Voyageur",
+      "price": 425,
       "topic": "Newest"
     },
     {
       "mainPhoto": "https://tumi.scene7.com/is/image/Tumi/1319599054_main?hei=280&wid=280&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "altPhoto": "https://tumi.scene7.com/is/image/Tumi/1319599054_alt1?hei=370&wid=330&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "rate": 5,
-      "cat": "Tula Crossbody",
-      "name": "Voyageur",
-      "price": "245.00",
-      "topic": "Highest Price"
+      "name": "Tula Crossbody",
+      "cat": "Voyageur",
+      "price": 245,
+      "topic": "Lowest Price"
     },
     {
       "mainPhoto": "https://tumi.scene7.com/is/image/Tumi/1354842156_main?hei=280&wid=280&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "altPhoto": "https://tumi.scene7.com/is/image/Tumi/1354842156_alt1?hei=370&wid=330&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "rate": 0,
-      "cat": "Wynne Weekender",
-      "name": "Voyageur",
-      "price": "395.00",
+      "name": "Wynne Weekender",
+      "cat": "Voyageur",
+      "price": 395,
       "topic": "Newest"
     },
     {
       "mainPhoto": "https://tumi.scene7.com/is/image/Tumi/1355427105_main?hei=280&wid=280&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "altPhoto": "https://tumi.scene7.com/is/image/Tumi/1355427105_alt1?hei=370&wid=330&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "rate": 5,
-      "cat": "McCoy Gym Bag",
-      "name": "Alpha Bravo",
-      "price": "525.00",
-      "topic": "Newest"
+      "name": "McCoy Gym Bag",
+      "cat": "Alpha Bravo",
+      "price": 525,
+      "topic": "Highest Price"
     },
     {
       "mainPhoto": "https://tumi.scene7.com/is/image/Tumi/1099759054_main?hei=280&wid=280&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "altPhoto": "https://tumi.scene7.com/is/image/Tumi/1099759054_alt1?hei=370&wid=330&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "rate": 5,
-      "cat": "Troy Crossbody",
-      "name": "Voyageur",
-      "price": "245.00",
-      "topic": "Newest"
+      "name": "Troy Crossbody",
+      "cat": "Voyageur",
+      "price": 245,
+      "topic": "Highest Price"
     },
     {
       "mainPhoto": "https://tumi.scene7.com/is/image/Tumi/1173131009_main?hei=280&wid=280&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "altPhoto": "https://tumi.scene7.com/is/image/Tumi/1173131009_alt1?hei=370&wid=330&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "rate": 4,
-      "cat": "Expandable Organizer Laptop Brief",
-      "name": "Alpha 3",
-      "price": "525.00",
-      "topic": "Best Sellers"
+      "name": "Expandable Organizer Laptop Brief",
+      "cat": "Alpha 3",
+      "price": 525,
+      "topic": "Highest Price"
     },
     {
       "mainPhoto": "https://tumi.scene7.com/is/image/Tumi/1173441041_main?hei=280&wid=280&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "altPhoto": "https://tumi.scene7.com/is/image/Tumi/1173441041_alt1?hei=370&wid=330&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "rate": 5,
-      "cat": "Double Expansion Travel Satchel",
-      "name": "Alpha 3",
-      "price": "425.00",
-      "topic": "Top Rated"
+      "name": "Double Expansion Travel Satchel",
+      "cat": "Alpha 3",
+      "price": 425,
+      "topic": "Highest Price"
     },
     {
       "mainPhoto": "https://tumi.scene7.com/is/image/Tumi/1258901251_main?hei=280&wid=280&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "altPhoto": "https://tumi.scene7.com/is/image/Tumi/1258901251_alt1?hei=370&wid=330&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "rate": 5,
-      "cat": "Aviano Slim Brief Leather",
-      "name": "Alpha Bravo",
-      "price": "550.00",
-      "topic": "Highest Price"
+      "name": "Aviano Slim Brief Leather",
+      "cat": "Alpha Bravo",
+      "price": 550,
+      "topic": "Lowest Price"
     },
     {
       "mainPhoto": "https://tumi.scene7.com/is/image/Tumi/1364581077_main?hei=280&wid=280&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "altPhoto": "https://tumi.scene7.com/is/image/Tumi/1364581077_alt1?hei=370&wid=330&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "rate": 5,
-      "cat": "Sheryl Business Tote",
-      "name": "Voyageur",
-      "price": "425.00",
-      "topic": "Lowest Price"
+      "name": "Sheryl Business Tote",
+      "cat": "Voyageur",
+      "price": 425,
+      "topic": "Relevance"
     },
     {
       "mainPhoto": "https://tumi.scene7.com/is/image/Tumi/1100421438_main?hei=280&wid=280&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "altPhoto": "https://tumi.scene7.com/is/image/Tumi/1100421438_alt1?hei=370&wid=330&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "rate": 5,
-      "cat": "Just In Case® Tote",
-      "name": "Voyageur",
-      "price": "100.00",
-      "topic": "Newest"
+      "name": "Just In Case® Tote",
+      "cat": "Voyageur",
+      "price": 100,
+      "topic": "Best Sellers"
     },
     {
       "mainPhoto": "https://tumi.scene7.com/is/image/Tumi/133571T273_main?hei=280&wid=280&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "altPhoto": "https://tumi.scene7.com/is/image/Tumi/133571T273_alt1?hei=370&wid=330&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "rate": 4,
-      "cat": "Everyday Tote",
-      "name": "Voyageur",
-      "price": "295.00",
-      "topic": "Best Sellers"
+      "name": "Everyday Tote",
+      "cat": "Voyageur",
+      "price": 295,
+      "topic": "Highest Price"
     },
     {
       "mainPhoto": "https://tumi.scene7.com/is/image/Tumi/109970T273_main?hei=280&wid=280&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "altPhoto": "https://tumi.scene7.com/is/image/Tumi/109970T273_alt1?hei=370&wid=330&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "rate": 5,
-      "cat": "Troy Crossbody",
-      "name": "Voyageur",
-      "price": "245.00",
-      "topic": "Newest"
+      "name": "Troy Crossbody",
+      "cat": "Voyageur",
+      "price": 245,
+      "topic": "Relevance"
     },
     {
       "mainPhoto": "https://tumi.scene7.com/is/image/Tumi/130457T399_main?hei=280&wid=280&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "altPhoto": "https://tumi.scene7.com/is/image/Tumi/130457T399_alt1?hei=370&wid=330&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "rate": 0,
-      "cat": "Hope Tote",
-      "name": "Devoe",
-      "price": "375.00",
-      "topic": "Best Sellers"
+      "name": "Hope Tote",
+      "cat": "Devoe",
+      "price": 375,
+      "topic": "Relevance"
     },
     {
       "mainPhoto": "https://tumi.scene7.com/is/image/Tumi/1355457105_main?hei=280&wid=280&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "altPhoto": "https://tumi.scene7.com/is/image/Tumi/1355457105_alt1?hei=370&wid=330&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "rate": 5,
-      "cat": "Campbell Utility Pouch",
-      "name": "Alpha Bravo",
-      "price": "250.00",
-      "topic": "Relevance"
+      "name": "Campbell Utility Pouch",
+      "cat": "Alpha Bravo",
+      "price": 250,
+      "topic": "Newest"
     },
     {
       "mainPhoto": "https://tumi.scene7.com/is/image/Tumi/1319581438_main?hei=280&wid=280&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "altPhoto": "https://tumi.scene7.com/is/image/Tumi/1319581438_alt1?hei=370&wid=330&layer=2&opac=0&layer=3&opac=0&qlt=75",
       "rate": 5,
-      "cat": "Tula Crossbody",
-      "name": "Voyageur",
-      "price": "245.00",
-      "topic": "Relevance"
+      "name": "Tula Crossbody",
+      "cat": "Voyageur",
+      "price": 245,
+      "topic": "Newest"
     }
   ]
 }
